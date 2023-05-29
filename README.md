@@ -1,16 +1,17 @@
-# Plurii - ClockIn
-Projetos 2 - 2023.1
+# Plurii - Monitoramento Educacional
+> Unindo experiênia para criar soluções Plurais!
 
-Repositório criado para desenvolver e compartilhar as atividades realizadas para a disciplina de Projetos 2, na CESAR School.
+Este repositório foi criado para desenvolver e compartilhar as atividades realizadas para a disciplina de Projetos 2, na CESAR School.
 
 # Cliente
 Hospital das Clínicas/UFPE
 
 # Problemática Inicial do Projeto
-Como otimizar o monitoramento da jornada dos residentes do HC?
+Como otimizar o monitoramento da jornada dos residentes do HC, garantindo a assertividade das informações?
 
 # Linguagens e Frameworks utilizados
 - C (Requisito)
+- Python
 
 # Link do Google Site
 O Google Site será utilizado como repositório geral das atividades da Equipe.
@@ -23,7 +24,6 @@ O Google Site será utilizado como repositório geral das atividades da Equipe.
 - <a href="mailto:alls@cesar.school">Ana Luiza Lima</a>
 - <a href="mailto:cm2@cesar.school">Cristina Matsunaga</a>
 - <a href="mailto:falf@cesar.school">Fransisco Filho</a>
-- <a href="mailto:itmp@cesar.school">Ivy Torres</a>
 - <a href="mailto:jfhp@cesar.school">Jorge Herbster</a>
 - <a href="mailto:lesl@cesar.school">Lucibelle Lemos</a>
 - <a href="mailto:thas@cesar.school">Thiago Araújo</a>
