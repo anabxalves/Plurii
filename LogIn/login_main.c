@@ -62,13 +62,6 @@ int main(int argc, char *argv[])
 
     while(bool != 0)
     {
-        if(cont == 0)
-        {
-            bool = 1;
-            cont++;
-            continue;
-        }
-
         printf("Insira seu usuario: ");
         fgets(user, sizeof(user), stdin);
         user[strcspn(user, "\n")] = '\0';
