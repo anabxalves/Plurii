@@ -4,7 +4,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 
 <img src="./assets/SR2.jpg" alt="equipe-plurii">
-> Unindo experiênia para criar soluções Plurais!
 
 Este repositório criado para desenvolver e compartilhar as atividades realizadas para a disciplina de Projetos 2, na CESAR School.
 
@@ -32,7 +31,7 @@ O Replit foi utilizado como ambiente de desenvolvimento da solução da Equipe.
 
 O layout completo da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/SZ1Lersblyaxq2SaeEEe3A/Projetos-2_PlurII?type=design&node-id=0-1&t=1HMgOmVqy5Me0Oti-0">
+<a href="https://www.figma.com/file/SZ1Lersblyaxq2SaeEEe3A/Projetos-2_PlurII?type=design&node-id=365-192&t=pHlf22VxVwWxgdN6-0">
   <img src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
