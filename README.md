@@ -40,12 +40,9 @@ O Google Site é utilizado como repositório geral das atividades da equipe.
 ## 🔗 Replit
 O Replit foi utilizado como ambiente de desenvolvimento da solução da equipe.
 - <a href="https://replit.com/@ADRIANALUCIA/MonitoramentoEducacional">
-  <img src="https://img.shields.io/badge/Acessar%20Ambiente%20-Replit-%2304D361">
-</a>
+  <img src="https://img.shields.io/badge/Acessar%20Ambiente%20-Replit-%2304D361"></a>
 - <a href="https://docs.google.com/spreadsheets/d/1Kosrgs8cgRyc4zcYgwSPcIUkc2J53D01c-LtiPMPYdw/edit?pli=1#gid=639311192">
-  <img src="https://img.shields.io/badge/Acessar%20planilha de estrutura de dados%20-Google Sheets-%2304D361">
-</a>
-
+  <img src="https://img.shields.io/badge/Acessar%20planilha de estrutura de dados%20-Google Sheets-%2304D361"></a>
 
 ## 🎨 Layout
 
