@@ -1,7 +1,6 @@
 # 👁 Plurii - Monitoramento Educacional
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 
 <img src="./assets/SR2.jpg" alt="equipe-plurii">
 
