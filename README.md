@@ -46,6 +46,7 @@ O Replit foi utilizado como ambiente de desenvolvimento da solução da equipe.
   <img src="https://img.shields.io/badge/Acessar%20planilha de estrutura de dados%20-Google Sheets-%2304D361">
 </a>
 
+
 ## 🎨 Layout
 
 O layout completo da aplicação está disponível no Figma:
