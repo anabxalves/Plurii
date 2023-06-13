@@ -31,13 +31,17 @@ Uma aplicação web responsiva com interface gameficada para o registro de frequ
 ## 🚀 Linguagem utilizada
 - <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-## 🔗 Goggle Sites
-O Google Site é utilizado como repositório geral das atividades da Equipe.
-- https://sites.google.com/d/1t0OLgStzGjvJXd6uRZ67mmi3Px_olgTK/p/1JAbr9ScvTvCkfa_h8P2z5rhFH4xEimsN/edit
+## 🔗 Google Sites
+O Google Site é utilizado como repositório geral das atividades da equipe.
+- <a href="https://sites.google.com/cesar.school/plurii-clockin/home">
+  <img src="https://img.shields.io/badge/Acessar%20Site%20-Google Sites-%2304D361">
+</a>
 
 ## 🔗 Replit
-O Replit foi utilizado como ambiente de desenvolvimento da solução da Equipe.
-- https://replit.com/@ADRIANALUCIA/MonitoramentoEducacional
+O Replit foi utilizado como ambiente de desenvolvimento da solução da equipe.
+- <a href="https://replit.com/@ADRIANALUCIA/MonitoramentoEducacional">
+  <img src="https://img.shields.io/badge/Acessar%20Ambiente%20-Replit-%2304D361">
+</a>
 >[Nossa planilha de estruturas de dados](https://docs.google.com/spreadsheets/d/1Kosrgs8cgRyc4zcYgwSPcIUkc2J53D01c-LtiPMPYdw/edit?pli=1#gid=639311192)
 
 ## 🎨 Layout
