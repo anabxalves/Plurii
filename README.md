@@ -72,7 +72,7 @@ O layout completo da aplicação está disponível no Figma:
 
 ## Video codigo em terminal
 
-[Link do Video}(https://drive.google.com/file/d/1hn6XijUO6C08WXEY37tb73gQkQV3ROr6/view?usp=sharing)
+[Link do Video](https://drive.google.com/file/d/1hn6XijUO6C08WXEY37tb73gQkQV3ROr6/view?usp=sharing)
 
 # 🤝 Integrantes da equipe
 <table>
