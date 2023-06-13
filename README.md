@@ -121,10 +121,10 @@ O layout completo da aplicação está disponível no Figma:
   <tr>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108764670?v=4" width="100px;"/><br/><sub><b>Adriana Rodrigues</b></sub></a><br/></a></td>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/108446826?v=4" width="100px;"/><br/><sub><b>Ana Beatriz Alves</b></sub></a><br/></a></td>
-    <td align="center"><img style="border-radius: 50%;" src="./assets/ANA BEATRIZ ROCHA.png" width="100px;" alt=""/><br /><sub><b>Ana Beatriz Rocha </b></sub></a><br /></a></td>
+    <td align="center"><img style="border-radius: 50%;" src="./assets/ANA BEATRIZ ROCHA.png" width="100px;" alt=""/><br/><sub><b>Ana Beatriz Rocha</b></sub></a><br /></a></td>
     <td align="center"><img style="border-radius: 50%;" src="./assets/ANA LUIZA LIMA.jpeg" width="100px;" alt=""/><br/><sub><b>Ana Luiza Lima</b></sub></a><br/></a></td>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104402971?v=4" width="100px;"/><br/><sub><b>Cristina Matsunaga</b></sub></a><br /></a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/39159963?v=4" width="100px;"/><br /><sub><b>Francisco Luz</b></sub></a><br /></a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/39159963?v=4" width="100px;"/><br/><sub><b>Francisco Luz</b></sub></a><br /></a></td>
     <td align="center"><img style="border-radius: 50%;" src="./assets/JORGE.jpeg" width="100px;" alt=""/><br /><sub><b>Jorge Herbster</b></sub></a><br/></a></td>
     <td align="center"><img style="border-radius: 50%;" src="./assets/LUCI.jpeg" width="100px;" alt=""/><br /><sub><b>Lucibelle Lemos</b></sub></a><br/></a></td>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/112591325?v=4" width="100px;"/><br/><sub><b>Thiago Araújo</b></sub></a><br /></a></td>
