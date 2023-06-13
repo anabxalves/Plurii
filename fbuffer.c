@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "myLibs.h"
 
 /* Limpar buffer teclado */
 
