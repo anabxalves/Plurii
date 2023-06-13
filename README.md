@@ -37,7 +37,7 @@ O layout completo da aplicação está disponível no Figma:
   <img src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-## Telas
+## 📱 Telas
 
 <p align="center">
   <img alt="tela-inicial" title="#plurii" src="./assets/Splashcreen.svg" width="200px">
@@ -49,7 +49,7 @@ O layout completo da aplicação está disponível no Figma:
   <img alt="tela-home" title="#plurii" src="./assets/Home.svg" width="200px">
 </p>
 
-## Board e Backlog no Jira
+## ☕ Board e Backlog no Jira
 
 <p align="center">
   <img alt="board-jira" title="#plurii" src="./assets/board-sprint-concluida.jpeg">
