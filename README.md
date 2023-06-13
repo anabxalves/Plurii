@@ -113,7 +113,7 @@ O layout completo da aplicação está disponível no Figma:
 ## 👨‍💻 Video do código no terminal
 
 <a href="https://drive.google.com/file/d/1hn6XijUO6C08WXEY37tb73gQkQV3ROr6/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Acessar%20video do terminal%20-Replit-%2304D361">
+  <img src="https://img.shields.io/badge/Acessar%20video do terminal%20-Google Drive-%2304D361">
 </a>
 
 # 🤝 Integrantes da equipe
