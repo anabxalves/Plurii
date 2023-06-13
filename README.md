@@ -12,10 +12,21 @@ Este repositório criado para desenvolver e compartilhar as atividades realizada
 ---
 
 ## 🏥 Cliente
-- Hospital das Clínicas/UFPE
+O Hospital das Clínicas da Universidade Federal de Pernambuco Professor Romero Marques (HC-UFPE) é um órgão suplementar da UFPE de apoio ao ensino, pesquisa extensão e assistência ep resta serviços médicos especializados de média e alta complexidade acobertados pelo SUS. Faz parte do grupo de 44 hospitais universitários geridos pela Rede Ebserh (Empresa Brasileira de Serviços Hospitalares).
+- O HC auxilia no campo de prática na formação de estudantes e profissionais incluindo:
+  - 15 cursos de graduação; 
+  - 52 programas de residência uniprofissional e multiprofissional;
+  - 13 cursos de pós-graduação.
 
-## 👊 Problemática inicial do projeto
-- Como otimizar o monitoramento da jornada dos residentes do HC, garantindo a assertividade das informações?
+## 👊 Problemática 
+Como otimizar o monitoramento da jornada dos residentes do HC garantindo a assertividade das informações?
+  - Devido aos diversas especialidades de de Residência com formas de avaliação e acompanhamento diferentes  há uma grande dificuldade no Monitoramento da Jornada dos Residentes. Isso é agravado também pois os residentes não recebem feedback das atividades e as avaliações e frequencias são registrados tardiamente e em formulários de papel.
+
+## 😎 Solução
+Uma aplicação web responsiva com interface gameficada para o registro de frequencia, avaliação e feebback das atividades dos residentes de forma assertiva e instantânea para a melhoria do monitoramento dos programas residências no Hospital das Clínicas UFPE.
+- Nosso processo de desenvolvimento da solução foi dividido em dois momentos: 
+  - Aquisição de dados e foco no  engajamento dos residentes e preceptores através da gameficação para garantir o recebimentos dos dados de forma assertiva;
+  - Após validar a primeira parte, o foco foi no refinamento  da solução para abarcar as necessidades das coordenações e núcleo de  Gestão de Educação Pesquisa para gestão e manipulação de dados e criação de métricas de avaliação de qualidade estabelecidas com o cliente.
 
 ## 🚀 Linguagem utilizada
 - <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -50,6 +61,7 @@ O layout completo da aplicação está disponível no Figma:
 </p>
 
 ## ☕ Board e Backlog no Jira
+- Utilizamos a metodologia ágil Scrum e o Design Thinking, junto ao quadro Kanban, para organizar e orientar o desenvolvimento da solução. A partir disso, criamos as histórias necessárias e formamos nosso board e backlog no Jira.
 
 <p align="center">
   <img alt="board-jira" title="#plurii" src="./assets/board-sprint-concluida.jpeg">
