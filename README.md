@@ -100,9 +100,12 @@ O layout completo da aplicação está disponível no Figma:
   <img alt="tela-home" title="#plurii" src="./assets/Home.svg" width="200px">
 </p>
 
-## ☕ Board e Backlog no Jira
+## 🖼️ Board e Backlog no Jira
 
 - Utilizamos a metodologia ágil Scrum e o Design Thinking, junto ao quadro Kanban, para organizar e orientar o desenvolvimento da solução. A partir disso, criamos as histórias necessárias e formamos nosso board e backlog no Jira.
+<a href="https://cristinam.atlassian.net/jira/software/projects/PDP/issues/">
+  <img src="https://img.shields.io/badge/Acessar%20Jira%20-Jira-%2304D361">
+</a>
 
 <p align="center">
   <img alt="board-jira" title="#plurii" src="./assets/board-sprint-concluida.jpeg">
