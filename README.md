@@ -52,9 +52,9 @@ O layout completo da aplicação está disponível no Figma:
 ## Board e Backlog no Jira
 
 <p align="center">
-  <img alt="board-jira" title="#plurii" src="./assets/board-sprint-concluida.jpeg" width="200px">
+  <img alt="board-jira" title="#plurii" src="./assets/board-sprint-concluida.jpeg">
 
-  <img alt="backlog-jira" title="#plurii" src="./assets/backlog-jira.jpeg" width="200px">
+  <img alt="backlog-jira" title="#plurii" src="./assets/backlog-jira.jpeg">
 </p>
 
 # 🤝 Integrantes da Equipe
